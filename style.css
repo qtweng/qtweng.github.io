@@ -1,0 +1,10 @@
+body {
+	font-family: 'Ubuntu', sans-serif;
+	text-align: center;
+}
+h1 {
+	font-weight: 700;
+}
+.nav {
+	float: right;
+}
