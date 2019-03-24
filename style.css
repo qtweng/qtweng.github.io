@@ -1,10 +1,20 @@
 body {
+	padding-top: 70px;
 	font-family: 'Ubuntu', sans-serif;
 	text-align: center;
+	background-color: #395568;
+	color: #aeffad;
+}
+#navicon{
+	margin: auto;
+	max-height: 25px;
+	max-width: 22px;
 }
 h1 {
 	font-weight: 700;
-}
-.nav {
-	float: right;
+	color: white;
+	width: 200px;
+	margin: auto;
+	padding: 5px;
+	border: 2px solid white;
 }
