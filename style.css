@@ -2,19 +2,32 @@ body {
 	padding-top: 70px;
 	font-family: 'Ubuntu', sans-serif;
 	text-align: center;
-	background-color: #395568;
-	color: #aeffad;
+	background-color: #456575;
+	color: #ffffff;
 }
-#navicon{
+#navicon {
 	margin: auto;
 	max-height: 25px;
 	max-width: 22px;
+	padding-bottom:3px;
 }
-h1 {
+.navbar-inverse {
+	background-color: #202929;
+}
+.navbar-inverse .navbar-nav>li>a {
+	color: #d9d9d9;
+}
+.navbar-inverse .navbar-brand {
+	color: #d9d9d9;
+}
+#sig-border {
 	font-weight: 700;
 	color: white;
 	width: 200px;
 	margin: auto;
 	padding: 5px;
-	border: 2px solid white;
+	border: 5px solid white;
+}
+#sig {
+	width: 180px;
 }
