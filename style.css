@@ -5,10 +5,13 @@ body {
 	background-color: #456575;
 	color: #f0f0f0;
 }
+.navbar-brand{
+	width: 200px;
+}
 #navicon {
 	margin: auto;
 	max-height: 25px;
-	max-width: 22px;
+	max-width: 23px;
 	padding-bottom:3px;
 }
 .navbar-inverse {
@@ -21,8 +24,6 @@ body {
 	color: #d9d9d9;
 }
 #sig-border {
-	font-weight: 700;
-	color: white;
 	width: 200px;
 	margin: auto auto 50px auto;
 	padding: 5px;
@@ -31,12 +32,25 @@ body {
 #sig {
 	width: 180px;
 }
+h1 {
+	font-weight: 700;
+}
+p {
+	font-size: 1.2em;
+}
 .S1 {
 	background-color: #974457;
+}
+.S1M .thumbnail {
+	margin-bottom: 0;
 }
 .S1T {
 	padding-top: 20px;
 }
+.S2 {
+	background-color: #32733a;
+}
 footer {
 	background-color: #202929;
 }
+
