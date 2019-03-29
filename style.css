@@ -39,16 +39,20 @@ p {
 	font-size: 1.2em;
 }
 .S1 {
-	background-color: #974457;
+	background-color: white;
+	color: #456575;
 }
-.S1M .thumbnail {
-	margin-bottom: 0;
+.S1M .bio-image{
+	height: auto;
+	max-width: 100%;
 }
 .S1T {
 	padding-top: 20px;
+	padding-right: 30px;
 }
 .S2 {
-	background-color: #32733a;
+	background-color: white;
+	color: #456575;
 }
 footer {
 	background-color: #202929;
